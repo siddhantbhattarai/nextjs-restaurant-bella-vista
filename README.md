@@ -2,7 +2,6 @@ Here's a complete `README.md` file for your **restaurant website** project — i
 
 ---
 
-````markdown
 # 🍽️ Restaurant Website
 
 A modern, responsive restaurant landing page built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and [Radix UI](https://www.radix-ui.com/). This app is fully containerized using Docker.
