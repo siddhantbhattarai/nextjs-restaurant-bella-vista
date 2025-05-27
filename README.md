@@ -1,10 +1,7 @@
-Here's a complete `README.md` file for your **restaurant website** project — including instructions from cloning the repository, installing dependencies, building with Docker, and accessing the app on `localhost:3000`:
-
----
-
 # 🍽️ Restaurant Website
 
 A modern, responsive restaurant landing page built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and [Radix UI](https://www.radix-ui.com/). This app is fully containerized using Docker.
+![Screenshot from 2025-05-27 21-05-57](https://github.com/user-attachments/assets/6570dbb6-b654-46fc-9666-0670a206f868)
 
 ---
 
