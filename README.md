@@ -22,7 +22,7 @@ A modern, responsive restaurant landing page built with [Next.js](https://nextjs
 
 ```bash
 git clone https://github.com/siddhantbhattarai/nextjs-restaurant-bella-vista.git
-cd restaurant-website
+cd nextjs-restaurant-bella-vista
 ````
 
 ### 2. Install Dependencies
