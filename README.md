@@ -50,7 +50,12 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ---
 
 ## 🐳 Docker Setup
-
+### Prerequisite: Docker Installation
+``` bash
+sudo apt update
+sudo apt install docker.io
+sudo chown $USER:$USER /var/run/docker.sock
+```
 ### 1. Build Docker Image
 
 ```bash
